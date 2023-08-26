@@ -1,0 +1,1 @@
+# cruso-scope-closure
